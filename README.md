@@ -11,13 +11,13 @@ Programme Java qui gère une liste de contacts avec ajout et recherche.
 ## Comment exécuter le projet
 1. Cloner le dépôt :
 ```bash
-git clone https://github.com/inzajrtoure5/exomaisonprojetinfo.git
+https://github.com/inzajrtoure5/Exercice1_ContactsManager
 ```
 2. Ouvrir dans IntelliJ IDEA
 3. Lancer `Main.java`
 
 ## Prérequis
-- Java JDK 26
+- Java JDK 21
 - IntelliJ IDEA
 
 ## Auteur
